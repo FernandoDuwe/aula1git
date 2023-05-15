@@ -1,6 +1,3 @@
 Essa é a aula 1 de git!
 
 Top demais
-
-
-Fiz um commit :)
